@@ -1,0 +1,9 @@
+ps4:
+  title: PS4 Fat
+  description: En buen estado
+  price: 150
+
+Switch:
+  title: Nintendo Switch
+  description: Le falla el lector de tarjeta SD
+  price: 150
